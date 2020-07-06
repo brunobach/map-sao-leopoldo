@@ -20,16 +20,15 @@
 <p align="center">
 
 <p align="center">
-  <a href="#-Description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
-## ✍ Description: What is my project about??
+## ✍ Descrição: Como funciona o projeto??
 
 > Criação de um mapa coroplético para o município de São Leopoldo/RS com o intuito de adicionar interatividade aos usuários do Painel "Coronavírus" da  [Prefeitura de São Leopoldo: CoronaVirus](https://www.saoleopoldo.rs.gov.br/coronavirus/).
 <p align="center">
@@ -68,7 +67,7 @@
 |<input type="checkbox" checked>| Sul	    |    Santa Teresa	  |  8.486
 
 
-## 💻 Project Estructure
+## 💻 Projeto : Estrutura
 
 ```bash
 📂 -- map-sao-leopoldo
@@ -90,7 +89,7 @@
         ┗-- index.html
 ```
 
-## 🛸 Technologies
+## 🛸 Tecnologias
 
 This project was developed with the following technologies:
 
@@ -98,13 +97,13 @@ This project was developed with the following technologies:
 - [leaflet][leaflet]
 
 
-## 🧰 How To Use
+## 🧰 Como usar
 
 To clone and run this project, you'll need [Git](https://git-scm.com).
 
 From your command line:
 
-### 📥 Install cmd 
+### 📥 Como baixar via cmd/terminal 
 
 ```bash
 # Clone this repository
@@ -118,13 +117,13 @@ $ open index.html
 
 ```
 
-### 📲 Or scan QR code on device
+### 📲 Ou escaneie o codigo no seu dispositivo
 <h1 align="center">
   <img alt="QRcode Git" title="QRcode Git" src="https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://github.com/brunobach/map-sao-leopoldo/" width="150px" />
 </h1>
 
 
-## 🤔 How to contribute
+## 🤔 Como contribuir
 
 -  Make a fork;
 -  Create a branch with your feature: `git checkout -b my-feature`;
@@ -137,7 +136,7 @@ _After merging your receipt request to done, you can delete a branch from yours_
 
 This project is under the MIT license. See the [LICENSE](https://github.com/brunobach/map-sao-leopoldo/blob/master/LICENSE) for details.
 
-Made with ♥ by Bruno Bach :wave: [Get in touch!](https://www.linkedin.com/in/bruno-bach/)
+Made with by Bruno Bach :wave: [Get in touch!](https://www.linkedin.com/in/bruno-bach/)
 
 [javascript]: https://www.javascript.com/
 [leaflet]: https://leafletjs.com/
